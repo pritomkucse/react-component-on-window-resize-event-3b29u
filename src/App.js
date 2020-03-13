@@ -63,7 +63,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>
-          WIDTH={this.state.width} HEIGHT={this.state.height}
+          WINDOW WIDTH={this.state.width}, HEIGHT={this.state.height}
         </h1>
       </div>
     );
